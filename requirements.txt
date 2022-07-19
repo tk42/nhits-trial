@@ -1,0 +1,5 @@
+torch
+torchvision
+pytorch-lightning
+pytorch-forecasting>=0.10.2
+git+https://github.com/KelvinKan/CP-Flow.git@package-specific-version
